@@ -1,0 +1,2 @@
+nodemon demo_server.js
+open index.html with live server

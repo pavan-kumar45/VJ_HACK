@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.1",
+    "firebase": "^10.14.1"
+  },
+  "name": "vj_hack",
+  "version": "1.0.0",
+  "main": "demo.js",
+  "type": "module",
+  "scripts": {
+    "test": "node demo.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
